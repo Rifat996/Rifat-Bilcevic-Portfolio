@@ -85,7 +85,13 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+    {
+        img: Mock5,
+        description: "Handmade bags website/webshop",
+        link: "https://torbejarabi-ba69f.web.app/",
+    },
+    {
         img: Mock1,
         description: "Car service site with admin panel to generate bills and record vehicle service history",
         link: "https://central-m-systems.web.app/login",
@@ -96,25 +102,21 @@ const dataportfolio = [{
         link: "https://kinlab-project.web.app/",
     },
     {
-        img: Mock2,
-        description: "Tour agency site with booking and Leaflet maps functionalities",
-        link: "https://rifat996.github.io/RifatTravelEx/#myPage",
-    },
-    {
         img: Mock3,
         description: "React Native Project - built a Nike Clone Shop with Product Modal and Cart functionalities",
         link: "https://github.com/Rifat996/React-Native-Nike-Shop/tree/master/AwesomeProject",
+    },
+    {
+        img: Mock2,
+        description: "Tour agency site with booking and Leaflet maps functionalities",
+        link: "https://rifat996.github.io/RifatTravelEx/#myPage",
     },
     {
         img: Mock4,
         description: "Shoe 3D model built with Three.js and Fiber, interactive Gyroscope functionality",
         link: "https://github.com/Rifat996/ThreeJsShoeApp",
     },
-    {
-        img: Mock5,
-        description: "Handmade bags website/webshop - online soon",
-        link: "https://github.com/Rifat996",
-    },
+    
     
 ];
 
